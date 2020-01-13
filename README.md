@@ -1,2 +1,2 @@
 # jcp-event
-jcp-event
+JCPenney Hackathon Event 2020
